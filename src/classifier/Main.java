@@ -1,12 +1,19 @@
 package classifier;
 
+/**Created by Michael Janks **/
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
+import preprocessing.Preprocessor;
+
 public class Main {
 
 	public static void main(String[] args) throws Exception {
+		
+		Preprocessor p = new Preprocessor(args);
+		ArrayList<ArrayList<String>> docs = p.preprocess();
 		
 		ArrayList<String> masterWordList = new ArrayList<String>();
 	    ArrayList<String> fakeWordList = new ArrayList<String>();
@@ -25,7 +32,10 @@ public class Main {
 	    // We can hard code the number of fake/true docs for simplicity
 	    // The words in the docs are as follows:
 	   
-	    fakeWordList.add("fake");
+	    fakeWordList.addAll(docs.get(0));
+	    trueWordList.addAll(docs.get(1));
+	    
+	    /*fakeWordList.add("fake");
 	    fakeWordList.add("great");
 	    fakeWordList.add("great");
 	    fakeWordList.add("great");
@@ -51,7 +61,7 @@ public class Main {
 	    trueWordList.add("house");
 	    trueWordList.add("house");
 	    trueWordList.add("tree");
-	    trueWordList.add("tree");
+	    trueWordList.add("tree");*/
 	    
 	    masterWordList = c.createMasterList(fakeWordList, trueWordList);
 	    

@@ -1,0 +1,5 @@
+this is a string.
+i am stemming this.
+this is a stemmer.
+yep exactly. pizza is a good food. pineapple belongs on pizza pie.
+what time is it? it is now five o-clock

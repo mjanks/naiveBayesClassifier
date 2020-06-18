@@ -1,0 +1,51 @@
+A month since Georgia took some of the earliest and most extensive steps to reopen parts of its economy, Covid-19 cases have largely flattened in the state, albeit with a slight recent uptick.
+
+"The bad news is we are not seeing a reduction in transmission, but I don't see a spike in transmission," said Dr. Gerardo Chowell, professor of mathematical epidemiology at Georgia State University's School of Public Health.
+
+Data from the Georgia Department of Health shows that the seven-day moving average of coronavirus cases steadily declined from late April until mid-May, a reflection of the earlier stay-at-home order. The moving average of cases then flattened at just over 500 new cases per day, and the totals have risen slightly since May 12.
+
+Last month, after weeks of stay-at-home orders, Georgia allowed businesses like gyms, hair and nail salons and restaurants to reopen with certain restrictions in an attempt to restart its economy. Georgia was the first state to move so aggressively to reopen its economy and as such has come to represent the broader reopening movement.
+
+Some health experts worried that the reopening, combined with the state's limited testing capability, could lead to an increase in cases that could overwhelm hospitals, such as happened in Albany, Georgia, in the early days of the pandemic.
+
+So far, that fear has not been borne out. The preliminary data suggests that reopening has not led to a spike in cases -- but the virus has continued to steadily infect people and shows no signs of waning.
+
+"I'm proud of what we accomplished over the last several weeks, but we cannot rest on our laurels," Republican Gov. Brian Kemp said last week. "We need to further expand access to testing and we need to encourage Georgians to make it a priority."
+
+Dr. Carlos Del Rio, a professor of epidemiology at Emory's Rollins School of Public Health, said he thought Georgia was doing OK but worried about the beginning of an uptick in cases. Because the virus can spread so rapidly, a small increase can quickly spiral into a major spike without proper precautions.
+
+"Having a healthy economy is about providing people jobs, it's about providing people opportunity, it's about health," he said. "So unemployment causes disease, unemployment causes poverty, so we have to find a balance, but we need to do it carefully. We need to be careful not to be irresponsible."
+
+Georgia has had over 43,000 confirmed coronavirus cases, or just over 400 per 100,000 residents, and over 1,800 coronavirus deaths, or 17 per 100,000 residents, according to data compiled by Johns Hopkins University. The per-capita numbers are in the upper-middle of the pack among US states, on par with Mississippi and Virginia but slightly higher than nearby Florida, South Carolina, North Carolina.
+
+Dr. Chowell told CNN the recent increase in cases was likely due more to expanded testing in the state rather than the reopening. He said he expected the current transmission rate to remain steady through the summer.
+
+However, both Del Rio and Chowell said Georgia's issues with its testing data made their analysis somewhat uncertain.
+
+Georgia was one of several states that combined numbers from diagnostic and antibody tests on their website. Because those two tests measure different things -- diagnostic tests check for current infection, and antibody tests check for past infection -- combining them could draw a misleading picture of where the virus is spreading and how many people currently have the virus.
+
+"It's contaminating the picture of the epidemic in the state and it's not helping us get a better estimate of the transmission rate currently," Chowell said.
+
+Over the past month, average daily tests have increased from about 5,000 a day to about 20,000. With the increase in tests and a relatively steady number of positive results, the rate of positive tests has declined to about 5% from an earlier rate of 15% to 20%.
+
+On its website, Georgia's Department of Health said it will be separating the diagnostic tests from antibody tests "as soon as possible."
+
+In addition, two weeks ago, a misleading bar chart on the Department of Public Health's website appeared to show that the number of new confirmed cases in the counties with the most infections had dropped every single day for the prior two weeks. However, the graph did not list dates in chronological order or keep the counties in the same position each day, both of which caused confusion.
+
+The graph has since been taken off the website. Georgia Department of Public Health spokeswoman Nancy Nydam said the issue was due to "incorrect sorting logic" that did not consider the date of the confirmed cases.
+
+The steady positive case total is a far cry from March, when hospitals began to see several surges of Covid-19 in different parts of Georgia at the same time.
+
+The issue was particularly acute in Albany, where there was a cluster of cases linked to two funerals in late February and early March. Even now, the per-capita case and death numbers are starkly higher in counties surrounding Albany than in other parts of Georgia.
+
+"Those early days were scary and intense. We knew so little about it, and how it was spread or how to treat it," Dr. Shanti Akers, a pulmonary critical care physician at Phoebe Putney Health System in Albany, told Congress's House Select Subcommittee on the Coronavirus Crisis last week.
+
+It wasn't until March 10, after more than a week of the surge, that the hospital was informed they had treated a positive coronavirus case, she said.
+
+"What started as one case spread like wildfire," she added. "We filled ward after ward until we had at least five floors dedicated to the care of these patients."
+
+As the state moves forward, Kemp and health experts have encouraged people to wear masks, wash their hands with soap, and social distance from others to mitigate the virus's spread.
+
+Chowell said he expected the Covid-19 cases to remain steady through the summer, although that could change at any time. Still, he worried more about a wave of new cases in the fall if schools reopen and as people stay inside more when the weather turns colder.
+
+"The magnitude of that second wave will be a function of policies implemented in the state in regards to how much we encourage telework and remote learning, and also a function of how people comply and adhere to social distancing and put in place individual protective elements such as wearing face masks every time that we go out and interact with others," he said.
