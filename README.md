@@ -1,1 +1,1 @@
-# naiveBayesClassifier
+This program uses Porter's algorithm in addition to elimination of stop words from documents with the goal of realizing a naive Bayes inference implementation. Chris Pajtas contributed the pre-processing functionality.
